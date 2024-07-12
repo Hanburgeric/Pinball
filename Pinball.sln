@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pinball", "Pinball\Pinball.vcxproj", "{9D4EC74D-3E51-4737-A7FA-5B77361C185D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Debug|x64.ActiveCfg = Debug|x64
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Debug|x64.Build.0 = Debug|x64
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Debug|x86.Build.0 = Debug|Win32
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Release|x64.ActiveCfg = Release|x64
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Release|x64.Build.0 = Release|x64
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Release|x86.ActiveCfg = Release|Win32
+		{9D4EC74D-3E51-4737-A7FA-5B77361C185D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB2C034-73AD-4EED-B52A-1EA2FE09B406}
+	EndGlobalSection
+EndGlobal
