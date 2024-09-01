@@ -31,12 +31,6 @@ The "game over" area. Simulates the behavior of rigid bodies in fluids depending
 <img width=400 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc2amE0amplanN5dThjaWJ2eDI4a3FoM3h2YzhtODB0Z3Fva3F1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6ymqkptetNfXf6U8l/giphy.gif"/>
 </p><br>
 
-## To-Do
- - Update code to use modern OpenGL. 
- - Otherwise general refactoring of code to meet current standards.
-
-<br>
-
 ## Build and Deployment
 In the case that the .exe does not work (normally due to library linking errors), compile and run the code from Visual Studio by following the following steps:
  1. Set active solution configuration to
@@ -58,6 +52,12 @@ In the case that the .exe does not work (normally due to library linking errors)
  - `Spacebar` : activates the plunger; hold to increase the amount of force used to launch the ball.
  - `z` : activates the left flipper.
  - `/` : activates the right flipper.
+
+<br>
+
+## To-Do
+ - Update code to use modern OpenGL. 
+ - Otherwise general refactoring of code to meet current standards.
 
 <br>
 
