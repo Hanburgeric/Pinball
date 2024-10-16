@@ -267,7 +267,7 @@ void update(int value)
 		{
 			b2Fixture* dynamicFixture = iter->first;
 			b2Fixture* sensorFixture = iter->second;
-
+			
 			//If the ball is fully inside the entry portal, it is moved to the exit portal.
 			if (dynamicFixture->GetShape()->GetType() == b2Shape::e_circle && sensorFixture->GetShape()->GetType() == b2Shape::e_circle)
 			{
